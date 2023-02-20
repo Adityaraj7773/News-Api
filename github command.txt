@@ -1,0 +1,4 @@
+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
+git remote add origin https://github.com/Adityaraj7773/News-Api.git
+git remote set-url origin https://Adityaraj7773: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/Adityaraj7773/News-Api.git
+git push --set-upstream origin master
